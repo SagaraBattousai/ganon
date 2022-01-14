@@ -1,0 +1,6 @@
+[submodule "src/types"]
+	path = src/types
+	url = git@github.com:SagaraBattousai/HaskellTypes.git
+[submodule "cmakeHaskell"]
+	path = cmakeHaskell
+	url = git@github.com:SagaraBattousai/CmakeHaskellExtension.git
